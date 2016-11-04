@@ -18,5 +18,5 @@ http://hhvillequebec.sparkboard.com/
 - Le serveur d'API réalisé avec node-red (https://nodered.org/)
 - Le service SMS avec API de Twilio (https://www.twilio.com/)
 
-textodossier@gmail.com
-https://twitter.com/textodossier
+- textodossier@gmail.com
+- https://twitter.com/textodossier
